@@ -7,7 +7,9 @@ Welcome to the repository for the "Artificial Intelligence in Medicine II" cours
 This repository contains coding assignments for the Artificial Intelligence in Medicine II course offered at TUM. The course covers various topics in the intersection of artificial intelligence and medicine, including machine learning techniques, medical image analysis, clinical decision support systems, and more.
 
 Task 1: NLP Task
+
 Task 2: Deep Generative Models
+
 Task 3: MRI reconstruction
 
 ## Contributor
