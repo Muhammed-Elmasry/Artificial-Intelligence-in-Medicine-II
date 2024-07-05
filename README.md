@@ -8,6 +8,7 @@ This repository contains coding assignments for the Artificial Intelligence in M
 
 Task 1: NLP Task
 Task 2: Deep Generative Models
+Task 3: MRI reconstruction
 
 ## Contributor
 
